@@ -1,4 +1,4 @@
-import { Box, Card, Flex, Image, Skeleton, Text, Title } from "@mantine/core";
+import { Card, Skeleton, Text, Title } from "@mantine/core";
 import React, { useEffect } from "react";
 
 interface Summary {
@@ -12,7 +12,7 @@ export const CharacterSummary: React.FC<Summary> = ({name, summary}) => {
 
   const getTranslation = async () => {
     setLoading(true);
-    const response = await fetch('https://api-w5vy3m4h2q-uc.a.run.app/character/summary', {
+    const response = await fetch('http://localhost:8080/character/summary', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
