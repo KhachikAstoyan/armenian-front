@@ -12,7 +12,7 @@ export const CharacterSummary: React.FC<Summary> = ({name, summary}) => {
 
   const getTranslation = async () => {
     setLoading(true);
-    const response = await fetch('http://localhost:8080/character/summary', {
+    const response = await fetch('https://api-w5vy3m4h2q-uc.a.run.app/character/summary', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
