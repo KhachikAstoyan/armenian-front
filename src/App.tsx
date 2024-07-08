@@ -108,15 +108,10 @@ function App() {
       ) : (
         <Center w="100vw" h="100vh">
         <Flex direction="column" align="center" gap={20}>
-          <Title>Ընտրեք ստեղծագործությունը</Title>
-          <Flex gap={16}>
-            {readySummaries.map((item) => (
-              <Button size='lg' variant='light' key={item.title} onClick={() => setSummary(item.summary!)}>{item.title}</Button>
-            ))}
-          </Flex>
+
           <Textarea 
           size='lg'
-            label="Կամ մուտքագրեք նորը"
+            label="Մուտքագրեք ստեղծագործությունը"
             placeholder="Գրեք..."
             resize='vertical'
             miw='50vw'
