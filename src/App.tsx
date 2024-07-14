@@ -34,44 +34,6 @@ const readySummaries = [
         ]
     }
   },
-  {
-    title: 'Աղասի Այվազյան, Կիրակոսը',
-    sumary: {
-        "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-pkMuykaCfr16kEjGTEnpQeRn/user-QDjW8PzPKK2a4dyy6woeKgRW/img-1JwwXLI90ReUL3MHMvBGAdi8.png?st=2024-05-12T17%3A17%3A20Z&se=2024-05-12T19%3A17%3A20Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-05-12T08%3A04%3A30Z&ske=2024-05-13T08%3A04%3A30Z&sks=b&skv=2021-08-06&sig=NO9rwud4A2oBLJ2geBK3fxz87ZTDKOSnA6VRaRWqf/c%3D",
-        "summary": "Պատմվածքն ամփոփում է մի ընտանիքի կյանքը, որը տուժել է փոփոխություններից և գաղթից մի քանի տասնամյակների ընթացքում, սկսած 1892-ին Էրզրումից՝ 27 անդամներով, ապա 1916-ին և 1920-ին նրանց թիվը նվազել է՝ չասված դժվարությունների, հավանական պատերազմների կամ գաղթի պատճառով: 1920-ին Երևանում ընտանիքը մեկ միայնակ է: Պատմությունը ընդգծում է մոր փափագը բոլոր 27 անդամների վերամիավորման համար, որը հույսի խորհրդանիշ է կորստի և փոփոխության պայմաններում: Մայրը, ով ինքն էլ շատ դժվարություններ է ապրել, կրկնում է չմիջամտելու և անկախության ուսմունքները՝ արտացոլելով իր պաշտպանիչ էությունը և գոյատևումից ծնված իմաստությունը: Այնուամենայնիվ, նա պարադոքսալ կերպով ցանկանում է, որ իր ընտանիքը բազմանա և վերականգնի իր նախկին կապը: Պատմվածքը ցայտուն կերպով անդրադառնում է ֆիզիկական և փոխաբերական անխուսափելի տարածություններին, որոնք առաջանում են անհատների միջև սոցիալական կառուցվածքների, դիրքերի և անձնական ընտրության պատճառով, ինչպես օրինակ՝ պատմական դեմքի՝ Կովկասի փոխարքա Վորոնցով Դաշկովի հիշատակումը, որը խորհրդանշում է անհասանելի իշխանությունը և հեռավորությունները։ սոցիալական հիերարխիայի շրջանակներում։ Համընդհանուր թեման խորանում է մարդկային փոխհարաբերությունների բարդությունների, հասարակական կառույցների կողմից ստեղծվող մեկուսացման և անձնական և կոլեկտիվ պատմության ցնցող հիշեցումների մեջ, որոնք իրենց հետ տանում են մեր հերոսները:",
-        "characters": [
-            {
-                "name": "Mother",
-                "summary": "A resilient woman marked by the tribulations of migrations and changing times. She fervently wishes for the family’s reunification, holding onto the tradition of celebrating New Year with a full house. Despite her nurturing demeanor, she often advises against interfering in others' affairs, emphasizing self-reliance and caution in social interactions."
-            },
-            {
-                "name": "Narrator",
-                "summary": "The narrator reflects on the changes in their family size and structure over the years, heavily influenced by their mother's philosophies and the historical and social contexts they have lived through. Their recounting is tinged with a sense of loss and a deep understanding of the 'spaces' that separate people."
-            }
-        ]
-    }
-  },
-  {
-    title: 'Աղասի Այվազյան, Ալիբի',
-    summary: {
-        "image": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-pkMuykaCfr16kEjGTEnpQeRn/user-QDjW8PzPKK2a4dyy6woeKgRW/img-t57PfWIEQliPvTrn3umMI8jD.png?st=2024-05-12T17%3A18%3A49Z&se=2024-05-12T19%3A18%3A49Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-05-11T22%3A34%3A31Z&ske=2024-05-12T22%3A34%3A31Z&sks=b&skv=2021-08-06&sig=ItTCIb0gGNWajgOGqxALg6nnLhqPvGo6SIU5S5ucQAY%3D",
-        "summary": "Գլխավոր հերոսը պատմում է դատախազության կողմից որոնվելու պատմությունը՝ որպես սպանության գործով հնարավոր ալիբի։ Ի սկզբանե նա չի ճանաչում կասկածյալին, երբ ցույց են տալիս իշխանությունները և բազմիցս հաստատում է դա՝ չնայած նրանց պնդմանը։ Այս սցենարը խորը ներդաշնակություն է առաջացնում ճշմարտության և հիշողության հայեցակարգի վերաբերյալ: Գլխավոր հերոսը պայքարում է իրավիճակի ծանրության հետ՝ գիտակցելով, որ իր հայտարարությունը կարող է որոշել կասկածյալի ճակատագիրը: Նա մտածում է, թե իրականում նա կարող էր կասկածյալին ակամայից տեսած լինել ինչ-որ այլ առիթով, գուցե ավտոսրահում, որտեղ քննարկում էին ամերիկյան մեքենաները, որոնց մասին կասկածյալը նշել է իրենց ենթադրյալ հանդիպման ժամանակ: Թեև ի սկզբանե համոզված էր կասկածյալի հետ իր ծանոթության բացակայության մեջ, գլխավոր հերոսը կլանում է կասկածն ու մեղքը, խորհելով ճշմարտության և հիշողության սուբյեկտիվ բնույթի և իր վկայության բարոյական ծանրության մասին:",
-        "characters": [
-            {
-                "name": "Protagonist",
-                "summary": "A cautious and prudent person who is drawn into a murder case as a potential alibi for the suspect. Though initially confident in his unfamiliarity with the suspect, he starts to question his memory and the possibility of an inadvertent past encounter, leading him into a state of moral and psychological turmoil. Visually, he is portrayed as being pensive, reflecting a demeanor of deep introspection and doubt."
-            },
-            {
-                "name": "Suspect",
-                "summary": "Involved in a murder case and seemingly recognizes the protagonist as an alibi, claiming they met at a cinema parking lot. His fate hinges on the protagonist's testimony. The suspect carries an expression of hope and desperation, particularly when he thinks the protagonist might recognize him."
-            },
-            {
-                "name": "Prosecutor’s Office Employee",
-                "summary": "A skeptical and persistent figure who presses the protagonist to remember the suspect during the identification process. His role is critical in navigating the legal procedures and questioning, contributing to the protagonist's intense self-reflection."
-            }
-        ]
-    }
-  }
 ]
 
 function App() {
